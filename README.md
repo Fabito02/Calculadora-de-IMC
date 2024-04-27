@@ -1,2 +1,2 @@
 # Calculadora-de-IMC
-calculadora simples de IMC
+Calculadora simples de IMC
