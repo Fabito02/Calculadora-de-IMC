@@ -1,0 +1,55 @@
+::selection {
+    background-color: #798694;
+}
+body {
+    background-color: #e0eff8;
+}
+h1 {
+    color: #102838;
+    font-family: sans-serif;
+    text-align: center;;
+    font-size: 45px;
+}
+h3 {
+    font-family: sans-serif;
+    color: #102838;
+}
+.content {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    justify-content: center;
+}
+
+.content .frame {
+    max-width: 500px;
+    max-height: 400px;
+    padding: 24px;
+    width: auto;
+    height: auto;
+    background-color: rgb(169, 177, 180);
+    border-radius: 18px;
+}
+
+::placeholder{
+    color: #798b94;
+}
+input[type="number"] {
+    border-style: solid;
+    border-color: #3C5B6F ;
+    border-width: 4px;
+    border-radius: 5px;
+    background-color: rgb(188, 197, 204);
+    font-family: sans-serif;
+    width: 200px;
+}
+input[type="button"] {
+    border-color: #153448;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 5px;
+    background-color: #3C5B6F;
+    font-family: sans-serif;
+    color: white;
+}
